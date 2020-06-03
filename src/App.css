@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+  display: contents;
+}
+h1{
+  text-align: center;
+}
+.Paper{
+  padding-left:10em;
+  padding-right:30%;
+  margin-top: 30px;
+
+}
+.Tabs{
+  background-color: aqua;
+  size: 20px;
+  margin-left: 5em;
+
+
+}
+.Tab{
+  color: black;
+}
